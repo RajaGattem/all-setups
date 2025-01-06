@@ -1,3 +1,5 @@
+#Go to all setups and run script of aws configuration 
+
 #vim .bashrc
 #export PATH=$PATH:/usr/local/bin/
 #source .bashrc
